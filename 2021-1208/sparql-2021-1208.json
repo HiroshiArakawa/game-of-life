@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+	<head>
+		<variable name='item'/>
+		<variable name='itemLabel'/>
+	</head>
+	<results>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q74359</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Hobbit</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q78493</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>valar</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q78498</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Ainur</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q203904</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Middle-earth elf</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q338688</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>dwarves in Tolkien's legendarium</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q716204</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Balrogs</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q719506</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Maiar</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q899421</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Trolls</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q937840</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Orcs in Tolkien's legendarium</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q1076166</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Drúedain</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q1621322</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>men in Tolkien's legendarium</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q2014788</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>dragons of Middle-earth</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q2035494</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>half-elven</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q2339166</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Children of Ilúvatar</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q3855874</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Half-orcs</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q3870124</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Petty Dwarves</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q6667893</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Ent</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q7515806</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Uruk-hai</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q7845158</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Troll-man</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q9052187</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Olog-hai</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q10857997</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Huorns</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q11954120</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Urulóki</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q12298626</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Hill-trolls</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q18379832</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>cold-drakes</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q83473567</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Cave-trolls</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q83473767</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Stone-trolls</literal>
+			</binding>
+		</result>
+	</results>
+</sparql>
